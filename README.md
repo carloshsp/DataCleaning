@@ -2,8 +2,11 @@
 
 ## run_analysis.R
 
-script intended to compile and clean data described in "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
-original source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+script intended to compile and clean data described in:
+"http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" 
+
+original source: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Datasets:
 The zip file contains data from Samsung SII motion sensors in 30 subjects under certain activities
