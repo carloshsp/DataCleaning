@@ -9,7 +9,7 @@ original source:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Datasets:
-The zip file contains data from Samsung SII accelerometer and gyroscope analysed in 30 subjects under certain activities:
+The zip file contains data from Samsung Galaxy SII accelerometer and gyroscope analysed in 30 subjects under certain activities:
 - LAYING
 - SITTING
 - STANDING
