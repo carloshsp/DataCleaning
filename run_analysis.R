@@ -23,7 +23,7 @@ names(subject_train) <- "subject"
 names(y_test) <- "activity"
 names(y_train) <- "activity"
 
-## filter mean and std features - rename varibales
+## filter mean and std features - rename variables
 features_filtered <- filter(features, grepl("mean", V2) | grepl("std", V2))
 x_test_select <- select(x_test, features_filtered$V1)
 names(x_test_select) <- features_filtered$V2 
